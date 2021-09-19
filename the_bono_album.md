@@ -7,3 +7,5 @@ Get the fuck out of here. We haven't done work on this section of the site yet, 
 Go to https://chipchao.github.io/stimulateyourferrets please.
 
 Also, fuck [Changed.](https://store.steampowered.com/app/814540/) If you want to see how disgusting it is, click the link, but we must warn you: **_you might die._**
+
+![announcement, Changed](images/announce_fuck_Changed.png)
