@@ -24,7 +24,7 @@ Solution A is when web content is deleted off the repo. In that case, it could b
 
 ## 2: SOLUTION (B)?
 
-Solution A is when web content is not loading but is still in the images folder in the repo. In this case, simply reload the page.
+Solution B is when web content is not loading but is still in the images folder in the repo. In this case, simply reload the page.
 
 
 # 3: CAN I ADD SOMETHING?
