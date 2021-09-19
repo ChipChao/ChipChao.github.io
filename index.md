@@ -15,10 +15,10 @@ HELP I CAN'T SHIT NO MORE
 
 # DIRECTORY:
 
-[HOME](chipchao.github.io)
+[HOME](index)
 
-[BROKEN/ISSUES?](chipchao.github.io/broken)
+[BROKEN/ISSUES?](broken)
 
-[404/STIMULATE YOUR FERRETS](chipchao.github.io/stimulateyourferrets)
+[404/STIMULATE YOUR FERRETS](stimulateyourferrets)
 
 THE BONO ALBUM (COMING SOON)
