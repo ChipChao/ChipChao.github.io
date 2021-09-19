@@ -15,10 +15,10 @@ HELP I CAN'T SHIT NO MORE
 
 # DIRECTORY:
 
-[HOME](index)
+[HOME](index.html)
 
-[BROKEN/ISSUES?](broken)
+[BROKEN/ISSUES?](broken.html)
 
-[404/STIMULATE YOUR FERRETS](stimulateyourferrets)
+[404/STIMULATE YOUR FERRETS](stimulateyourferrets.html)
 
 THE BONO ALBUM (COMING SOON)
