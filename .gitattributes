@@ -1,2 +1,2 @@
-*.md linguist-language=lolcode
-*.html linguist-language=lolcode
+*.md linguist-language=monkey
+*.html linguist-language=monkey
