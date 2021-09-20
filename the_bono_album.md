@@ -4,7 +4,7 @@ permalink: /the_bono_album.html
 
 # PRESENTING:
 
-![announcement, Changed](images/announce_fuck_Changed.png)
+![announcement, fuck TBC](announce_fuck_TBC.png)
 
 Coming Soon™
 
