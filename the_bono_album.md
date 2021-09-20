@@ -21,3 +21,4 @@ We want it to be from a community we knew before ChipChao, so sorry, you probabl
 ### what the fuck is the thing on the announcement image?
 
 Well, does it look familar to you? If so, then think about what it looks like. Mainly the shape but thinking about the colour might help? Or do you have a latex fetish? But you probably aren't that disgusting. Right? If you do have a latex fetish, rethinking your life and changing would be the best choice.
+
