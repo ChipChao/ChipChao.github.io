@@ -1,2 +1,4 @@
-*.md linguist-language=jelly
-*.html linguist-language=jelly
+*.md linguist-language=monkey
+*.html linguist-language=monkey
+*.py3 lingust-language=monkey
+*.py lingust-language=monkey
