@@ -12,11 +12,7 @@ Coming Soon™
 
 ### what the fuck?
 
-Don't worry, we're kind-of on the same page here. We haven't done much work yet, we're mainly preparing in the pre-production phase. Mainly trying to find a vocalist.
-
-### I want to be the vocalist!
-
-We want it to be from a community we knew before ChipChao, so sorry, you probably can't. If that fails though, you can try.
+Don't worry, we're kind-of on the same page here. We haven't done much work yet, we're mainly preparing in the pre-production phase. We have all the shit ready but we're in the songwriting phase. It's getting done quickly so we can get to work on the music.
 
 ### what the fuck is the thing on the announcement image?
 
