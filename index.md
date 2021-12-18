@@ -2,8 +2,7 @@
 permalink: /index.html
 ---
 
-[![HOME](HOME.png)](http://chipchao.github.io/index.html) [![THE BONO ALBUM](TBA.png)](http://chipchao.github.io/the_bono_album.html) [![404](404.png)](http://chipchao.github.io/stimulateyourferrets.html)
-
+[![HOME](HOME.png)](http://chipchao.github.io/index.html) [![THE BONO ALBUM](TBA.png)](http://chipchao.github.io/the_bono_album.html) [![BLOG](blog.png)](https://chipchao.tumblr.com) [![404](404.png)](http://chipchao.github.io/stimulateyourferrets.html)
 
 # ChipChao's Dead Meme Space
 ***(yes that is a Radiohead parody)***
@@ -17,7 +16,3 @@ ChipChao is a band comprising of Nikostormkilla and TruncateVirus99. General Fiv
 # What is Dead Meme Space?
 
 Dead Meme Space is two things: it is our website, the one that you are on, and the second is that it is our pseudolabel that we release our music using. It is not an actual label in the fact that it cannot handle distribution on streaming services and would require services such as DistroKid. In a way, it is more of a "vanity label" that has no parent label whatsoever and is only used for releasing music and cannot distribute it. So tdlr; it's our website and our pseudolabel.
-
-# Do you have a blog?
-
-[Yes, we actually do. It's on Tumblr though, not our main site hosted on GitHub Pages. But hey, you can ask us anything you want us to answer.](https://chipchao.tumblr.com)
