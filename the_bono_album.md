@@ -69,5 +69,4 @@ April 4th, 2023 is our estimated release date and we think we can reach it. We h
 
 
 
-_ragon_now
-_hanged
+
