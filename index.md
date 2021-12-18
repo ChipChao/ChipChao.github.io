@@ -12,7 +12,7 @@ Welcome to the ChipChao website! Well, this website is shit, but who the fuck ca
 
 # Who are ChipChao?
 
-ChipChao is a band comprising of [Nikostormkilla](nikostormkilla.newgrounds.com) and [TruncateVirus99](choofiewooyt.newgrounds.com). General Fives was a former member of ChipChao and was in the band from June 2021 to December 2021 when he left during The Bono Album's lyrics being written and recorded as before that it was a general idea phase. We are all still friends though.
+ChipChao is a band comprising of Nikostormkilla and TruncateVirus99. General Fives was a former member of ChipChao and was in the band from June 2021 to December 2021 when he left during The Bono Album's lyrics being written and recorded as before that it was a general idea phase. We are all still friends though.
 
 # What is ChipChao's Dead Meme Space?
 
